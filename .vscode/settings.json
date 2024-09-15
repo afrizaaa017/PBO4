@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "NO_2/src/com/polban/jtk/inventory",
+        "NO_1/src",
+        "NO_3"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "NO_3/saleslib.jar"
+    ]
+}
